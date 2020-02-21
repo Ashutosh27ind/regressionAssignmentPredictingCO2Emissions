@@ -1,0 +1,2 @@
+1. Please unzip the folder co2_prediction containing the csv files to create the folder co2_prediction.
+2. Make sure the current working directory of python and newly created folder is in the same path.
